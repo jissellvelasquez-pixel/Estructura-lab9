@@ -1,0 +1,6 @@
+@Estructura_lab9_HostAddress = http://localhost:5241
+
+GET {{Estructura_lab9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
